@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeTest;
 
 public class MainMenus {
   @Test
-  public void f() {
+  public void menus() {
   }
   @BeforeTest
   public void beforeTest() {
